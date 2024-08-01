@@ -10,7 +10,7 @@ We provide the surrogate model architectures of the manuscript, and please run t
 
 **resnet.py** file includes the residual block v1 and v2. 
 
-We use randomly generated data for the verification of the proposed method. The dataset is large, so we do not upload it to this repository. Data are made available on request. 
+We use randomly generated data for the verification of the proposed method. 
 
 ## Package
 - Python: 3.8.8
